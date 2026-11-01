@@ -6,7 +6,7 @@ Windows app by [Excess Pro Net LLC](https://excesspronet.com) that resizes whole
 
 ## Download
 
-**[Latest release](https://github.com/alfonsitosenx/pixellift-studio/releases/latest)**: `PixelLiftStudio-Setup-1.0.2.exe` (14.6 MB)
+**[Latest release](https://github.com/alfonsitosenx/pixellift-studio/releases/latest)**: `PixelLiftStudio-Setup-1.0.3.exe` (14.6 MB)
 
 ## Requirements
 
